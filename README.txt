@@ -24,6 +24,8 @@ Desarrollo.
 En el desarrollo del proyecto se implementó Figma, donde se diseñaron la maquetación de todas las páginas que maneja el proyecto desde el punto de los requerimientos
 solicitados, la marca de identidad de la empresa y presentación de las ideas realizadas en anteriores reuniones.
 
+Los Mockups se pueden lograr visualizar en este link: https://drive.google.com/file/d/1Tjjd3T07BuhV4111JWzVJtonoaaW7cgE/view?usp=sharing
+
 2- Desarrollo del sofware.
 Se planteó en primera instancia el desarrollo de vistas específicas para el inicio del e-commerce y el desarrollo del contenido, en donde se ejecutó la codificación y
 la realización de los mockups.
